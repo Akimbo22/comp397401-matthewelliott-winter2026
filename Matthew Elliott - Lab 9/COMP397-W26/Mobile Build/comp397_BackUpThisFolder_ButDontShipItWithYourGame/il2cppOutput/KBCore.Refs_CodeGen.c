@@ -1,0 +1,240 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mDF29CEE8C0A3EF22F4AA964EF42086BC2CEBCF47 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mAFA78870ABC02E78208D6FE44EAE16F82EFA6B97 (void);
+extern void EnumerableExtensions_CountEnumerable_mFD6EE33DA521DD5EEA89788D601625D44DC3BE75 (void);
+extern void PrefabUtil_IsUninstantiatedPrefab_m52DD00E964F9CC37C05EA654EDEF598C4C90A27B (void);
+extern void PrefabUtil__ctor_m7DEE0102F0EDFDDA2F9580CAEB65A7F36B9D14A6 (void);
+extern void SceneRefAttribute_get_Loc_m8E82D1F610179FC1B2A737F43EE61BDB6C346093 (void);
+extern void SceneRefAttribute_get_Flags_m5C56B4EF733250C1F90179D1ACB5AACD70975341 (void);
+extern void SceneRefAttribute_get_Filter_m441D112DC1E1E343951706B8F0C65B7D96221724 (void);
+extern void SceneRefAttribute__ctor_m017685EB9723292AB40E9C0098A9D9BF7250CF61 (void);
+extern void SceneRefAttribute_HasFlags_m5DA81568DDB70CE27AE290FE7DFB185CF12B847D (void);
+extern void AnywhereAttribute__ctor_m296102C6C42F487B66F54EB30B302FAC288EFD49 (void);
+extern void SelfAttribute__ctor_m1F82C7D8F18D2ACBC7EF4C4414BE613AD4A16C27 (void);
+extern void ParentAttribute__ctor_m0C296D6DE1AE62F96A0ED5AD971C8CEBF1772AD6 (void);
+extern void ChildAttribute__ctor_mCF77868A38AED4062CEBC235FB8FF5B9D376C3CE (void);
+extern void SceneAttribute__ctor_m045CA68A91D2CD64721EF17AC4B68A358E8FBEFB (void);
+extern void SceneRefAttributeValidator_ValidateRefs_m519F0DE7DA3D0198945AF7BB7B6AB9C78FAB27C8 (void);
+extern void SceneRefAttributeValidator_Validate_m47F28D52138EEB5D22101751C7251B1E115A6090 (void);
+extern void SceneRefAttributeValidator_CleanValidate_mA24F249FF16388CC7928EED235A19932C15EB05A (void);
+extern void SceneRefAttributeValidator_Validate_mF0095749DFA07C986728F6BF3CD79FA9FCC1D83E (void);
+extern void SceneRefAttributeValidator_Clean_m39AC19D5711A7CB46FF3121665055142CC1F5154 (void);
+extern void SceneRefAttributeValidator_UpdateRef_m67B550EAF5463FEE77F1356C3090B80DD9D72A10 (void);
+extern void SceneRefAttributeValidator_GetElementType_mAA55B497F0A5401ADCE01F6DA093DD0F412FF1BD (void);
+extern void SceneRefAttributeValidator_GetComponentIfWrongType_mB9610BD98490BEE3099B4C3737174401484B60F9 (void);
+extern void SceneRefAttributeValidator_ValidateRef_mB70E0FA7FFC64F3D6E76535E611BA2936D61CC33 (void);
+extern void SceneRefAttributeValidator_ValidateRefLocation_mC2DB8A78D6B353A28767B7FF24B013B99DDF89D3 (void);
+extern void SceneRefAttributeValidator_ValidateRefLocation_m23A7D776188BAA9F52332653D436CE78290B1406 (void);
+extern void SceneRefAttributeValidator_ValidateRefLocationAnywhere_mB33FD23EBE49129A9EB173B927EB8F05D7800BF7 (void);
+extern void SceneRefAttributeValidator_IsEmptyOrNull_m8955F3CCE530BC2918BA19715ACD293A98F4BF69 (void);
+extern void SceneRefAttributeValidator_IsCollectionType_m70047C773BDA6B939D3F99E394FBC41CCFB609F0 (void);
+extern void SceneRefAttributeValidator_GetComponentsInParent_m8E97951B40620655171A4524AD4FD3F60799714F (void);
+extern void SceneRefAttributeValidator_GetComponentInParent_m4D7124831DA37F29A3732AB23994491FDB9A11FF (void);
+extern void SceneRefAttributeValidator_GetComponentsInChildren_mAA7C9C72A6A6A75D09066952CFA76DCA44AA02F7 (void);
+extern void SceneRefAttributeValidator_GetComponentInChildren_mB408D58AD786CF5E646E7CDF6D2B3A5F46C10ECF (void);
+extern void SceneRefAttributeValidator_GetComponentsInScene_m7016C098A75E3E872199061C6C7AD7CD7661139F (void);
+extern void SceneRefAttributeValidator__cctor_m1D08AE308CEA8E82CB72467C868E16F60B1035A3 (void);
+extern void U3CU3Ec__cctor_mB22FC3B8991A94917A902A0E39867BFFC921D516 (void);
+extern void U3CU3Ec__ctor_mB50054BEE50286EF41F1A3C9575DA8F034F274AC (void);
+extern void U3CU3Ec_U3CUpdateRefU3Eb__6_0_m789171839E73726D4733FC6B222CE4503882F10A (void);
+extern void U3CU3Ec__DisplayClass19_0__ctor_mDC002C00D8F73EBE01AB20C1058440151D3F7F02 (void);
+extern void U3CU3Ec__DisplayClass19_0_U3CGetComponentsInSceneU3Eg__IsCorrectTypeU7C0_m5CF18A19BD357A5DFFAD95AAAB5B06741087866D (void);
+extern void U3CU3Ec__DisplayClass6_0__ctor_m3774ED20B329229356BBDBA3B1C41125AB8DB500 (void);
+extern void U3CU3Ec__DisplayClass6_0_U3CUpdateRefU3Eb__1_m0FF940D311FA0A1777F18EB78B19D1F24FFA623D (void);
+extern void SceneRefFilter__ctor_mC2FA1D4174BE442B4E3A52234C0C2D63E0AD910A (void);
+extern void ValidatedMonoBehaviour_OnValidate_mAEEA4C918BC630033B66A0505DEACB5792DE7882 (void);
+extern void ValidatedMonoBehaviour__ctor_m8BC2EC82BE61BA5B85A43C8CEF3456C012FC891C (void);
+static Il2CppMethodPointer s_methodPointers[63] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mDF29CEE8C0A3EF22F4AA964EF42086BC2CEBCF47,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mAFA78870ABC02E78208D6FE44EAE16F82EFA6B97,
+	EnumerableExtensions_CountEnumerable_mFD6EE33DA521DD5EEA89788D601625D44DC3BE75,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	PrefabUtil_IsUninstantiatedPrefab_m52DD00E964F9CC37C05EA654EDEF598C4C90A27B,
+	PrefabUtil__ctor_m7DEE0102F0EDFDDA2F9580CAEB65A7F36B9D14A6,
+	NULL,
+	SceneRefAttribute_get_Loc_m8E82D1F610179FC1B2A737F43EE61BDB6C346093,
+	SceneRefAttribute_get_Flags_m5C56B4EF733250C1F90179D1ACB5AACD70975341,
+	SceneRefAttribute_get_Filter_m441D112DC1E1E343951706B8F0C65B7D96221724,
+	SceneRefAttribute__ctor_m017685EB9723292AB40E9C0098A9D9BF7250CF61,
+	SceneRefAttribute_HasFlags_m5DA81568DDB70CE27AE290FE7DFB185CF12B847D,
+	AnywhereAttribute__ctor_m296102C6C42F487B66F54EB30B302FAC288EFD49,
+	SelfAttribute__ctor_m1F82C7D8F18D2ACBC7EF4C4414BE613AD4A16C27,
+	ParentAttribute__ctor_m0C296D6DE1AE62F96A0ED5AD971C8CEBF1772AD6,
+	ChildAttribute__ctor_mCF77868A38AED4062CEBC235FB8FF5B9D376C3CE,
+	SceneAttribute__ctor_m045CA68A91D2CD64721EF17AC4B68A358E8FBEFB,
+	SceneRefAttributeValidator_ValidateRefs_m519F0DE7DA3D0198945AF7BB7B6AB9C78FAB27C8,
+	SceneRefAttributeValidator_Validate_m47F28D52138EEB5D22101751C7251B1E115A6090,
+	SceneRefAttributeValidator_CleanValidate_mA24F249FF16388CC7928EED235A19932C15EB05A,
+	SceneRefAttributeValidator_Validate_mF0095749DFA07C986728F6BF3CD79FA9FCC1D83E,
+	SceneRefAttributeValidator_Clean_m39AC19D5711A7CB46FF3121665055142CC1F5154,
+	SceneRefAttributeValidator_UpdateRef_m67B550EAF5463FEE77F1356C3090B80DD9D72A10,
+	SceneRefAttributeValidator_GetElementType_mAA55B497F0A5401ADCE01F6DA093DD0F412FF1BD,
+	SceneRefAttributeValidator_GetComponentIfWrongType_mB9610BD98490BEE3099B4C3737174401484B60F9,
+	SceneRefAttributeValidator_ValidateRef_mB70E0FA7FFC64F3D6E76535E611BA2936D61CC33,
+	SceneRefAttributeValidator_ValidateRefLocation_mC2DB8A78D6B353A28767B7FF24B013B99DDF89D3,
+	SceneRefAttributeValidator_ValidateRefLocation_m23A7D776188BAA9F52332653D436CE78290B1406,
+	SceneRefAttributeValidator_ValidateRefLocationAnywhere_mB33FD23EBE49129A9EB173B927EB8F05D7800BF7,
+	SceneRefAttributeValidator_IsEmptyOrNull_m8955F3CCE530BC2918BA19715ACD293A98F4BF69,
+	SceneRefAttributeValidator_IsCollectionType_m70047C773BDA6B939D3F99E394FBC41CCFB609F0,
+	SceneRefAttributeValidator_GetComponentsInParent_m8E97951B40620655171A4524AD4FD3F60799714F,
+	SceneRefAttributeValidator_GetComponentInParent_m4D7124831DA37F29A3732AB23994491FDB9A11FF,
+	SceneRefAttributeValidator_GetComponentsInChildren_mAA7C9C72A6A6A75D09066952CFA76DCA44AA02F7,
+	SceneRefAttributeValidator_GetComponentInChildren_mB408D58AD786CF5E646E7CDF6D2B3A5F46C10ECF,
+	SceneRefAttributeValidator_GetComponentsInScene_m7016C098A75E3E872199061C6C7AD7CD7661139F,
+	SceneRefAttributeValidator__cctor_m1D08AE308CEA8E82CB72467C868E16F60B1035A3,
+	U3CU3Ec__cctor_mB22FC3B8991A94917A902A0E39867BFFC921D516,
+	U3CU3Ec__ctor_mB50054BEE50286EF41F1A3C9575DA8F034F274AC,
+	U3CU3Ec_U3CUpdateRefU3Eb__6_0_m789171839E73726D4733FC6B222CE4503882F10A,
+	U3CU3Ec__DisplayClass19_0__ctor_mDC002C00D8F73EBE01AB20C1058440151D3F7F02,
+	U3CU3Ec__DisplayClass19_0_U3CGetComponentsInSceneU3Eg__IsCorrectTypeU7C0_m5CF18A19BD357A5DFFAD95AAAB5B06741087866D,
+	U3CU3Ec__DisplayClass6_0__ctor_m3774ED20B329229356BBDBA3B1C41125AB8DB500,
+	U3CU3Ec__DisplayClass6_0_U3CUpdateRefU3Eb__1_m0FF940D311FA0A1777F18EB78B19D1F24FFA623D,
+	NULL,
+	SceneRefFilter__ctor_mC2FA1D4174BE442B4E3A52234C0C2D63E0AD910A,
+	NULL,
+	NULL,
+	NULL,
+	ValidatedMonoBehaviour_OnValidate_mAEEA4C918BC630033B66A0505DEACB5792DE7882,
+	ValidatedMonoBehaviour__ctor_m8BC2EC82BE61BA5B85A43C8CEF3456C012FC891C,
+};
+static const int32_t s_InvokerIndices[63] = 
+{
+	24397,
+	14018,
+	22582,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	-1,
+	22405,
+	14018,
+	-1,
+	13743,
+	13743,
+	13811,
+	2185,
+	7362,
+	4846,
+	4846,
+	4846,
+	4846,
+	4846,
+	20472,
+	20472,
+	20472,
+	17280,
+	20488,
+	16524,
+	22745,
+	19661,
+	16055,
+	16030,
+	16030,
+	17255,
+	19206,
+	17265,
+	16518,
+	16518,
+	16518,
+	16518,
+	16506,
+	24371,
+	24371,
+	14018,
+	7426,
+	14018,
+	7426,
+	14018,
+	9060,
+	-1,
+	14018,
+	-1,
+	-1,
+	-1,
+	14018,
+	14018,
+};
+static const Il2CppTokenRangePair s_rgctxIndices[3] = 
+{
+	{ 0x02000005, { 0, 3 } },
+	{ 0x02000018, { 9, 3 } },
+	{ 0x06000013, { 3, 6 } },
+};
+extern const uint32_t g_rgctx_InterfaceRef_1_t7B99B523DC8ED1614AE898DD8EC51DC0B1DEBF85;
+extern const uint32_t g_rgctx_T_tBF6D54C43B874F406A14FA06A0E6F635B6296EAF;
+extern const uint32_t g_rgctx_T_tBF6D54C43B874F406A14FA06A0E6F635B6296EAF;
+extern const uint32_t g_rgctx_T_tFDDD1EC1C203A81CA5A0A0346FC703F60B280D71;
+extern const uint32_t g_rgctx_IList_1_t865092F9CB685FAD89A9D24D12A6782A497B2C6B;
+extern const uint32_t g_rgctx_AttributedField_1_tFACDD2113D41BFA843292C32DAB0E255DCC31C22;
+extern const uint32_t g_rgctx_T_tFDDD1EC1C203A81CA5A0A0346FC703F60B280D71;
+extern const uint32_t g_rgctx_ICollection_1_t181CE2BB4A8065ABF6F720260099340CC51E6BC4;
+extern const uint32_t g_rgctx_ICollection_1_Add_m3507CB3A1AEBB7E9E25233BAF7348FB1C21C0DB8;
+extern const uint32_t g_rgctx_T_t63913534B8E7A96F4D8B23D0589AF4AFD56B0B2B;
+extern const uint32_t g_rgctx_SceneRefFilter_1_tD3099AA595C95979FDFB754361663F62F9DB29F5;
+extern const uint32_t g_rgctx_SceneRefFilter_1_IncludeSceneRef_m098C4861234B40261EEC378666775AEDEFC89B2A;
+static const Il2CppRGCTXDefinition s_rgctxValues[12] = 
+{
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_InterfaceRef_1_t7B99B523DC8ED1614AE898DD8EC51DC0B1DEBF85 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_tBF6D54C43B874F406A14FA06A0E6F635B6296EAF },
+	{ (Il2CppRGCTXDataType)1, (const void *)&g_rgctx_T_tBF6D54C43B874F406A14FA06A0E6F635B6296EAF },
+	{ (Il2CppRGCTXDataType)1, (const void *)&g_rgctx_T_tFDDD1EC1C203A81CA5A0A0346FC703F60B280D71 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_IList_1_t865092F9CB685FAD89A9D24D12A6782A497B2C6B },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_AttributedField_1_tFACDD2113D41BFA843292C32DAB0E255DCC31C22 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_tFDDD1EC1C203A81CA5A0A0346FC703F60B280D71 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_ICollection_1_t181CE2BB4A8065ABF6F720260099340CC51E6BC4 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_ICollection_1_Add_m3507CB3A1AEBB7E9E25233BAF7348FB1C21C0DB8 },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_T_t63913534B8E7A96F4D8B23D0589AF4AFD56B0B2B },
+	{ (Il2CppRGCTXDataType)2, (const void *)&g_rgctx_SceneRefFilter_1_tD3099AA595C95979FDFB754361663F62F9DB29F5 },
+	{ (Il2CppRGCTXDataType)3, (const void *)&g_rgctx_SceneRefFilter_1_IncludeSceneRef_m098C4861234B40261EEC378666775AEDEFC89B2A },
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_KBCore_Refs_CodeGenModule;
+const Il2CppCodeGenModule g_KBCore_Refs_CodeGenModule = 
+{
+	"KBCore.Refs.dll",
+	63,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	3,
+	s_rgctxIndices,
+	12,
+	s_rgctxValues,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
