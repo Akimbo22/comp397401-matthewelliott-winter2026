@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2baf5e9a630d73a4e9b27a09cc63d66c, type: 3}
+  m_Name: DragonBall
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  ItemName: Dragon Ball
+  isStackable: 1
+  icon: {fileID: 2800000, guid: 869a2a558f9d40447b7e399e3976af81, type: 3}
+  prefab: {fileID: 4305927600370586191, guid: d569bd98825b2694f8f3f7a9cd1f4734, type: 3}
